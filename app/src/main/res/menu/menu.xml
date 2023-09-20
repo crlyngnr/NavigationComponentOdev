@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Page A"
+        android:id="@+id/pageAFragment"
+        android:icon="@drawable/ic_left_24"
+        />
+    <item android:title="Page X"
+        android:id="@+id/pageXFragment"
+        android:icon="@drawable/ic_right_24"
+        />
+</menu>
